@@ -26,6 +26,5 @@
 
 <br>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brayanhl&theme=dark)](https://git.io/streak-stats)
 
-<br>
-[![brayanhl's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayanhl)](https://github.com/anuraghazra/github-readme-stats)
