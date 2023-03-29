@@ -26,9 +26,5 @@
 
 <br>
 
-<p align="center">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brayan-hern%C3%A1ndez-l%C3%B3pez)](https://www.linkedin.com/in/brayan-hern%C3%A1ndez-l%C3%B3pez) 
-, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brayanhdzlpz2000@gmail.com)](mailto:brayanhdzlpz2000@gmail.com)
-,[![Twitter Badge](https://img.shields.io/badge/-Raghav-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Brayanhl17)](https://twitter.com/Brayanhl17)
-</p>
+
 <br>
